@@ -1,0 +1,5 @@
+﻿  Nimproject.cpp
+d:\student data\desktop\code\comp sci ii\projectone_nim\projectone_nim\nimproject.cpp(21): warning C4244: 'initializing': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\student data\desktop\code\comp sci ii\projectone_nim\projectone_nim\nimproject.cpp(251): warning C4244: 'initializing': conversion from 'time_t' to 'unsigned int', possible loss of data
+  ProjectOne_Nim.vcxproj -> D:\Student Data\Desktop\Code\Comp Sci II\ProjectOne_Nim\Debug\ProjectOne_Nim.exe
+  ProjectOne_Nim.vcxproj -> D:\Student Data\Desktop\Code\Comp Sci II\ProjectOne_Nim\Debug\ProjectOne_Nim.pdb (Full PDB)
